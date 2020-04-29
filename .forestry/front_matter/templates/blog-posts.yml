@@ -46,4 +46,5 @@ fields:
   config:
     required: true
 pages:
+- content/blog/new-music-joywel-x-ewarahyo.md
 - content/blog/test.md
