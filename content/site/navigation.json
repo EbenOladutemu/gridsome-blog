@@ -6,35 +6,41 @@
       "external": false
     },
     {
-      "name": "About",
-      "link": "/about",
+      "name": "Music",
+      "link": "/category/music",
       "external": false
     },
     {
-      "name": "Getting started",
-      "link": "/category/getting-started",
+      "name": "Gists",
+      "link": "/category/gists",
+      "external": false
+    },
+    {
+      "name": "Sport",
+      "link": "/category/sport",
+      "external": false
+    },
+    {
+      "name": "Contact",
+      "link": "/contact",
       "external": false
     }
   ],
-  "footerNavigation": [{
+  "footerNavigation": [
+    {
       "name": "Latest Posts",
       "link": "/",
-      "external" : false
-    },
-    {
-      "name": "Facebook",
-      "link": "https://www.facebook.com",
-      "external": true
-    },
-    {
-      "name": "Gridsome",
-      "link": "https://www.gridsome.org",
-      "external": true
-    },
-    {
-      "name": "RSS",
-      "link": "/rss.xml",
       "external": false
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/latest9jaa",
+      "external": true
+    },
+    {
+      "name": "WhatsApp",
+      "link": "https://api.whatsapp.com/send?phone=2349061787907",
+      "external": true
     }
   ]
 }

@@ -1,16 +1,12 @@
 {
   "social": [
     {
-      "icon": "facebook",
-      "link": "https://www.facebook.com"
+      "icon": "instagram",
+      "link": "https://www.instagram.com/latest9jaa"
     },
     {
-      "icon": "twitter",
-      "link": "https://twitter.com/"
-    },
-    {
-      "icon": "linkedin",
-      "link": "https://www.linkedin.com"
+      "icon": "whatsapp",
+      "link": "https://api.whatsapp.com/send?phone=2349061787907"
     }
   ]
 }
