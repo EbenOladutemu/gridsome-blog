@@ -5,6 +5,9 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
+    max: 
 - type: tag_list
   name: tags
   label: tags
@@ -13,17 +16,20 @@ fields:
   label: category
   config:
     source:
-      type: custom
+      type: simple
     options:
     - Music
     - Sport
     - Gists
+    - Lifestyle
+    required: true
 - type: text
   name: excerpt
   label: excerpt
 - type: datetime
   name: created
   label: created
+  default: now
 - type: file
   name: image
   label: image
@@ -36,5 +42,9 @@ fields:
 - type: text
   name: author
   label: author
+  default: Murray
+  config:
+    required: true
 pages:
+- content/blog/new-music-joywel-x-ewarahyo.md
 - content/blog/test.md
