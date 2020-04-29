@@ -12,7 +12,7 @@
 
 query($page:Int) {
 
-  entries: allBlog(perPage: 9, page: $page) @paginate {
+  entries: allBlog(sortBy: "created", order: DESC, perPage: 9, page: $page) @paginate {
     totalCount
     pageInfo {
       totalPages
@@ -57,3 +57,28 @@ export default {
   }
 };
 </script>
+
+<style>
+a, a:hover {
+  color: inherit!important;
+  text-decoration: none!important;
+}
+
+@media (min-width: 640px){
+  .sm\:-mx-4 {
+    margin-left: 1rem!important;
+    margin-right: 1rem!important;
+  }
+}
+
+@media (min-width: 640px){
+  .sm\:px-4 {
+    padding-left: 1rem!important;
+    padding-right: 1rem!important; 
+  }
+}
+
+ul{
+  margin-bottom: 0rem!important;
+}
+</style>
