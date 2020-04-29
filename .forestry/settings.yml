@@ -12,7 +12,7 @@ sections:
   templates:
   - blog-posts
 upload_dir: static
-public_path: ''
+public_path: latest9ja.com.ng
 front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
