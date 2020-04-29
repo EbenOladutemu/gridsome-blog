@@ -46,5 +46,6 @@ fields:
   config:
     required: true
 pages:
+- content/blog/breaking-see-the-new-adjustments-made-on-lockdown-orders-in-lagos-from-may-4th-governor-sanwoolu.md
 - content/blog/new-music-joywel-x-ewarahyo.md
 - content/blog/test.md
