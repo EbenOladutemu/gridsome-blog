@@ -5,12 +5,19 @@ fields:
 - type: text
   name: title
   label: title
-- type: text
+- type: tag_list
   name: tags
   label: tags
-- type: text
+- type: select
   name: category
   label: category
+  config:
+    source:
+      type: custom
+    options:
+    - Music
+    - Sport
+    - Gists
 - type: text
   name: excerpt
   label: excerpt
@@ -23,6 +30,9 @@ fields:
 - type: text
   name: image_caption
   label: image_caption
+- type: file
+  name: audio
+  label: audio
 - type: text
   name: author
   label: author
