@@ -3,7 +3,7 @@
     <div class="container sm:pxi-0 mx-auto overflow-x-hidden pt-24">
       <div class="lg:mx-32 md:mx-16 sm:mx-8 mx-4 pt-8">
         <section class="post-header container mx-auto px-0 mb-4 border-b">
-          <span class="text-blue-500 font-medium uppercase tracking-wide text-sm">
+          <span class="text-green-500 font-medium uppercase tracking-wide text-sm">
             <g-link
               :to="$page.blog.category.path"
               class="hover:underline"

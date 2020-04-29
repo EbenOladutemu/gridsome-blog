@@ -1,6 +1,6 @@
 <template>
   <header class="bg-black relative z-1000 bg-radial-t-gray-to-black" id="header">
-    <nav class="flex items-center justify-between flex-wrap container mx-auto px-4 sm:px-0 py-4">
+    <nav class="flex items-center justify-between flex-wrap container mx-auto px-4 sm:px-0 py-3">
       <div class="block flex-grow flex items-center w-auto height-30px">
         <div class="text-sm flex-grow uppercase">
           <ul class="list-none flex justify-left text-gray-300 uppercase">
@@ -45,10 +45,11 @@
       </div>
     </nav>
 
-    <div class="logo pt-0 pb-16 md:pb-32 md:pt-16 container mx-auto text-center text-white">
+    <div class="logo pt-0 pb-1 md:pb-32 md:pt-16 container mx-auto text-center text-white">
       <h2 class="m-0">
         <span class="text-4xl">
-          <font-awesome :icon="['fas', 'ghost']" class="mb-1 mr-3"></font-awesome>
+          <!-- <font-awesome :icon="['fas', 'ghost']" class="mb-1 mr-3"></font-awesome> -->
+          <!-- <img src="https://d33wubrfki0l68.cloudfront.net/8e30fb5a9433b34d1c282e72340442c644a086b4/0a008/logo-frames/latest-9ja.png" style="width: 35px; margin-right: 10px" alt="Latest 9ja"> -->
         </span>
         <span class="text-5xl text-white">{{ $static.metadata.siteName }}</span>
       </h2>

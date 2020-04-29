@@ -1,11 +1,11 @@
 <template>
-  <div class="flex flex-post px-0 sm:px-4 pb-8 mb-8" v-bind:class="{'no-border': !border}">
+  <div class="flex flex-post sm:px-4 pb-8 mb-8" v-bind:class="{'no-border': !border}">
     <g-link :to="record.path" class="post-card-image-link">
       <g-image :src="record.image" :alt="record.title" class="post-card-image"></g-image>
     </g-link>
     <div class="post-card-content">
       <g-link :to="record.path">
-        <p class="uppercase font-medium text-xs text-blue-700 mt-3">{{ record.category.title }}</p>
+        <p class="uppercase font-medium text-xs text-green-700 fs-20 mt-3">{{ record.category.title }}</p>
         <h2 class="post-card-title mt-0">
           {{ record.title }}
         </h2>
@@ -15,7 +15,7 @@
       <div class="avatars">
         <div class="flex items-center">
           <div class="flex justify-between items-center">
-            <ul class="list-none flex author-list">
+            <ul class="list-none flex author-list" style="margin-left: 0!important">
               <li v-for="author in record.author" :key="author.id" class="author-list-item">
                 <g-link :to="author.path" v-tooltip="author.name">
                   <g-image

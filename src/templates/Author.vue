@@ -20,7 +20,7 @@
               rel="noopener noreferrer"
               class="text-gray-400 hover:text-black"
             >
-              <font-awesome :icon="['fab', 'facebook']" />
+              <!-- <font-awesome :icon="['fab', 'facebook']" /> -->
             </a>
             &nbsp;
             <a
@@ -29,7 +29,7 @@
               rel="noopener noreferrer"
               class="text-gray-400 hover:text-black"
             >
-              <font-awesome :icon="['fab', 'twitter']" />
+              <!-- <font-awesome :icon="['fab', 'twitter']" /> -->
             </a>
             &nbsp;
             <a
@@ -38,7 +38,7 @@
               rel="noopener noreferrer"
               class="text-gray-400 hover:text-black"
             >
-              <font-awesome :icon="['fab', 'linkedin']" />
+              <!-- <font-awesome :icon="['fab', 'linkedin']" /> -->
             </a>
           </div>
         </div>
