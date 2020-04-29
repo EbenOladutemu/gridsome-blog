@@ -1,5 +1,5 @@
 ---
-created: 2020-04-29T21:44:26Z
+created: 2020-04-29T21:44:26.000+00:00
 author: Murray
 title: New Music - Joywel x Ewarahyo
 tags:
@@ -19,4 +19,4 @@ It was mixed and mastered by Olumide medal.
 
 Listen and download the song below.
 
-<div class="col-sm-6 embed-responsive embed-responsive-4by3"> <audio controls class="embed-responsive-item"> <source src="/Satisfy.mp3"> </audio> </div>
+<div class="col-sm-6 embed-responsive embed-responsive-4by3"> <audio controls class="embed-responsive-item"> <source src="https://res.cloudinary.com/latest9ja/video/upload/v1588204629/Satisfy_nhcrw9.mp3"> </audio> </div>
