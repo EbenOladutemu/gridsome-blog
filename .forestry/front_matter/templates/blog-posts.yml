@@ -36,9 +36,6 @@ fields:
 - type: text
   name: image_caption
   label: image_caption
-- type: file
-  name: audio
-  label: audio
 - type: text
   name: author
   label: author
