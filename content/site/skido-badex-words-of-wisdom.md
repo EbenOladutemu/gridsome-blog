@@ -7,8 +7,8 @@ category: Music
 excerpt: " Skido Badex is not relenting, he drop another hot single tagged ‘Words
   Of Wisdom‘.  Put your earphones on listen to this message from the undisputed rapper.
   \ Enjoy below!!   DOWNLOAD  Video below \U0001F447  GET VIDEO"
-image: ''
-image_caption: ''
+image: "/1587903448301.jpg"
+image_caption: Skido Badex
 
 ---
 ![](https://i0.wp.com/gsawstv.com/wp-content/uploads/2020/04/poster4_26_131426.png?resize=640%2C640&ssl=1 =311x311)
