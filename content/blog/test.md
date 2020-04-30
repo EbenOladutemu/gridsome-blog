@@ -12,3 +12,9 @@ audio: "/Slack - Incoming call"
 
 ---
 Wouldn't it be cool to have the World's Best Footballer in the Best team in the English Premier League? 😎
+
+<div class="col-sm-6 embed-responsive embed-responsive-4by3">
+<audio controls class="embed-responsive-item">
+<source src="/https://res.cloudinary.com/latest9ja/video/upload/v1588210704/Sample-file_syzqon.mp3.mp3">
+</audio>
+</div>
