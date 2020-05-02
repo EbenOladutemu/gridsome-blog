@@ -4,7 +4,7 @@ author: Dj Gsaws
 title: "“I Once Got My Butthole Licked By A Girl” -MC Galaxy Shares Details About
   His S*x Life"
 tags: []
-category: Music
+category: Gists
 excerpt: ''
 image: "/MC-Galaxy.jpg"
 image_caption: ''
