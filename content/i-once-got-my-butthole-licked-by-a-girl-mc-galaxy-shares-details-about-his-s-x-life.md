@@ -10,13 +10,8 @@ image: "/MC-Galaxy.jpg"
 image_caption: ''
 
 ---
+
 ## **Mc Galaxy has shared some never heard before details about his sex life and its quite interesting.**
-
-During a truth or dare session on Instagram Live, **Mc Galaxy** played the truth or dare game with a female fan called Irene and she asked him some personal questions about his sex life. Irene first asked him if he has ever had his butthole licked and he gave a ‘Yes’ answer to it. He was also asked if a guy has ever tried to have sex with him and he replied yes. According to him, this was a long time ago and he did not do it.
-
-See the video below;
-
-## **Mc Galaxy has shared some never heard before details about his sex life and its quite interesting.** 
 
 During a truth or dare session on Instagram Live, **Mc Galaxy** played the truth or dare game with a female fan called Irene and she asked him some personal questions about his sex life. Irene first asked him if he has ever had his butthole licked and he gave a ‘Yes’ answer to it. He was also asked if a guy has ever tried to have sex with him and he replied yes. According to him, this was a long time ago and he did not do it.
 
