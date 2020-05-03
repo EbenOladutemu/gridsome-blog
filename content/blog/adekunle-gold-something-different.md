@@ -1,6 +1,6 @@
 ---
 created: 2020-05-03T16:08:02Z
-author: Murray
+author: Dj Gsaws
 title: Adekunle Gold – “Something Different”
 tags:
 - Adekunle Gold
