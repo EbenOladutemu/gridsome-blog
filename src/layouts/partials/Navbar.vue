@@ -9,8 +9,8 @@
       <div class=" flex-grow flex justify-between items-center w-auto">
         <div class="flex items-center flex-shrink-0 text-white mr-6">
           <!-- <font-awesome :icon="['fas', 'ghost']" class="mr-3"></font-awesome> -->
-          <img src="./../../assets/img/latest-9ja.png" style="width: 35px; margin-right: 10px" alt="Latest 9ja">
-          <span class="font-semibold text-xl tracking-tight">{{ $static.metadata.siteName }}</span>
+          <a href="https://latest9ja.com.ng"><img src="./../../assets/img/latest-9ja.png" style="width: 35px; margin-right: 10px" alt="Latest 9ja">
+          <span class="font-semibold text-xl tracking-tight">{{ $static.metadata.siteName }}</span></a>
         </div>
         <div class="text-sm flex-grow uppercase navbar-nav-scroll d-none d-sm-block d-sm-none d-md-block d-md-none d-lg-block hide">
           <ul 
@@ -55,7 +55,7 @@
 
       </div>
     </nav>
-    <div class="text-sm flex-grow uppercase navbar-nav-scroll nav-adj bg-black d-block d-sm-none d-none d-sm-block d-md-none hide-2">
+    <div class="text-sm flex-grow uppercase navbar-nav-scroll nav-adj bg-black d-block d-sm-none d-none d-sm-block d-md-none hide-2" style="padding-left: 50px">
       <ul 
       class="list-none flex justify-center text-gray-300 uppercase transition-all transition-500 navbar-nav mr-auto bd-navbar flexrow flex-dir-row">
         <li
