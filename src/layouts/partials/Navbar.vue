@@ -9,7 +9,7 @@
       <div class=" flex-grow flex justify-between items-center w-auto">
         <div class="flex items-center flex-shrink-0 text-white mr-6">
           <!-- <font-awesome :icon="['fas', 'ghost']" class="mr-3"></font-awesome> -->
-          <a href="https://latest9ja.com.ng"><img src="./../../assets/img/latest-9ja.png" style="width: 35px; margin-right: 10px" alt="Latest 9ja">
+          <a href="https://latest9ja.com.ng" style="display:flex"><img src="./../../assets/img/latest-9ja.png" style="width: 35px; margin-right: 10px" alt="Latest 9ja">
           <span class="font-semibold text-xl tracking-tight">{{ $static.metadata.siteName }}</span></a>
         </div>
         <div class="text-sm flex-grow uppercase navbar-nav-scroll d-none d-sm-block d-sm-none d-md-block d-md-none d-lg-block hide">
