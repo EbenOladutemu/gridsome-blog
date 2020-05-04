@@ -58,4 +58,5 @@ fields:
   hidden: true
   default: Go to cloudinary.com to upload songs. Then copy URL
 pages:
+- content/blog/how-wizkid-thrashed-jamaican-singer-vybez-kartel-in-a-battle-of-hits-see-details.md
 - content/blog/wurld-ghost-town-prod-by-spax.md
