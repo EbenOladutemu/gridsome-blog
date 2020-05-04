@@ -9,9 +9,7 @@ sections:
   label: Post
   create: documents
   match: "**/*"
-  templates:
-  - blog-post
-  - blog-posts
+  exclude: author1.md, author2.md, author3.md, navigation.json, social.json
 upload_dir: static
 public_path: latest9ja.com.ng
 front_matter_path: ''
