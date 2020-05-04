@@ -21,6 +21,16 @@
       "external": false
     },
     {
+      "name": "Mixtape",
+      "link": "/category/mixtape",
+      "external": false
+    },
+    {
+      "name": "Videos",
+      "link": "/category/videos",
+      "external": false
+    },
+    {
       "name": "Contact",
       "link": "/contact",
       "external": false
