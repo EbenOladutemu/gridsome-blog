@@ -2,30 +2,49 @@
 label: Blog Posts
 hide_body: false
 fields:
-- type: datetime
-  name: created
-  label: created
-- type: text
-  name: author
-  label: author
 - type: textarea
   name: title
   label: title
-- type: list
-  name: tags
-  label: tags
-- type: text
-  name: category
-  label: category
 - type: text
   name: excerpt
   label: excerpt
+- name: category
+  type: select
+  default: ''
+  config:
+    required: true
+    options:
+    - Music
+    - Gists
+    - Sports
+    - Lifestyle
+    source:
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: category
+- type: list
+  name: tags
+  label: tags
+  config:
+    use_select: false
+    max: 5
+- type: datetime
+  name: created
+  label: created
+  default: now
+  config:
+    required: true
+- type: text
+  name: author
+  label: author
+  default: Murray
+  config:
+    required: true
 - type: file
   name: image
   label: image
 - type: text
   name: image_caption
   label: image_caption
-- type: text
-  name: audio
-  label: audio
