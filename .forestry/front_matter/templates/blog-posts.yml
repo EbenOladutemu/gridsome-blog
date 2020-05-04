@@ -57,3 +57,5 @@ fields:
     value: Music
   hidden: true
   default: Go to cloudinary.com to upload songs. Then copy URL
+pages:
+- content/blog/wurld-ghost-town-prod-by-spax.md
