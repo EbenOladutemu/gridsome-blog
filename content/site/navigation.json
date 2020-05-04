@@ -1,6 +1,11 @@
 {
   "headerNavigation": [
     {
+      "name": "Mixtape",
+      "link": "/mixtape",
+      "external": ""
+    },
+    {
       "name": "Home",
       "link": "/",
       "external": false
