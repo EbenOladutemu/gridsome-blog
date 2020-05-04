@@ -1,6 +1,11 @@
 {
   "headerNavigation": [
     {
+      "name": "Videos",
+      "link": "/videos",
+      "external": ""
+    },
+    {
       "name": "Home",
       "link": "/",
       "external": false
@@ -28,11 +33,6 @@
     {
       "name": "Mixtape",
       "link": "/mixtape",
-      "external": ""
-    },
-    {
-      "name": "Videos",
-      "link": "/videos",
       "external": ""
     }
   ],
