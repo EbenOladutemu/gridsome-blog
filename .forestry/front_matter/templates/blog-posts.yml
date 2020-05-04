@@ -24,12 +24,10 @@ fields:
       file: 
       path: 
   label: category
-- type: list
-  name: tags
+- name: tags
+  type: tag_list
+  default: []
   label: tags
-  config:
-    use_select: false
-    max: 5
 - type: datetime
   name: created
   label: created
@@ -57,3 +55,5 @@ fields:
   showOnly:
     field: category
     value: Music
+  hidden: true
+  default: Go to cloudinary.com to upload songs. Then copy URL
