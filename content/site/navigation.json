@@ -26,11 +26,6 @@
       "external": ""
     },
     {
-      "name": "Videos",
-      "link": "/category/videos",
-      "external": ""
-    },
-    {
       "name": "Contact",
       "link": "/contact",
       "external": false
