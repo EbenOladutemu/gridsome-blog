@@ -24,11 +24,6 @@
       "name": "Contact",
       "link": "/contact",
       "external": false
-    },
-    {
-      "name": "Mixtape",
-      "link": "/mixtape",
-      "external": ""
     }
   ],
   "footerNavigation": [
