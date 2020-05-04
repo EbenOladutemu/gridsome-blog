@@ -7,9 +7,10 @@ sections:
 - type: directory
   path: content
   label: Post
-  create: all
+  create: documents
   match: "**/*"
   templates:
+  - blog-post
   - blog-posts
 upload_dir: static
 public_path: latest9ja.com.ng
