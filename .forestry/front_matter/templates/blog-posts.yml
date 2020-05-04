@@ -48,3 +48,12 @@ fields:
 - type: text
   name: image_caption
   label: image_caption
+- name: audio
+  type: text
+  config:
+    required: false
+  label: audio
+  description: Go to cloudinary.com to upload songs. Then copy URL
+  showOnly:
+    field: category
+    value: Music
