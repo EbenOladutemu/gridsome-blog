@@ -1,9 +1,10 @@
 ---
-id: author3
-name: John Doe
-bio: Sociosqu placerat tortor vestibulum inceptos ligula faucibus fames nibh sodales imperdiet vulputate
+id: Dj Gsaws
+name: Dj Gsaws
+bio: ''
 facebook: https://www.facebook.com
 twitter: https://www.twitter.com
 linkedin: https://www.linkedin.com
-image: ./images/author3.png
+image: "./images/author3.png"
+
 ---
