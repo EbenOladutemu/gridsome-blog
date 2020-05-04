@@ -1,7 +1,7 @@
 <template>
   <header class="bg-black relative z-1000 bg-radial-t-gray-to-black" id="header">
     <nav class="flex items-center justify-between flex-wrap container mx-auto px-4 sm:px-0 py-3">
-      <div class="block flex-grow flex items-center w-auto height-30px">
+      <div class="block flex-grow flex items-center w-auto height-30px" style="overflow: scroll">
         <div class="text-sm flex-grow uppercase">
           <ul class="list-none flex justify-left text-gray-300 uppercase">
             <li
