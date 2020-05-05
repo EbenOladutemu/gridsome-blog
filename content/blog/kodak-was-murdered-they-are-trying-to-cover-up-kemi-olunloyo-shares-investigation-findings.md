@@ -50,8 +50,3 @@ She wrote :_UPDATE: Music Icon Sir Shina hasn’t been able to bail his son Clar
 > [Twitter Ads info and privacy](https://support.twitter.com/articles/20175256 "Twitter Ads info and privacy")
 
 [96 people are talking about this](https://twitter.com/KemiOlunloyo/status/1257210601845161984 "View the conversation on Twitter")
-
-<blockquote class="twitter-tweet">
-<a href="https://twitter.com/GoingVilla/status/1257587214906732544?s=20"></a>
-</blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
