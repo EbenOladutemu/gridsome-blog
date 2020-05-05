@@ -10,7 +10,7 @@ fields:
   label: excerpt
 - name: category
   type: select
-  default: ''
+  default: Music
   config:
     required: true
     options:
@@ -18,6 +18,8 @@ fields:
     - Gists
     - Sports
     - Lifestyle
+    - Mixtape
+    - Videos
     source:
       type: simple
       section: 
