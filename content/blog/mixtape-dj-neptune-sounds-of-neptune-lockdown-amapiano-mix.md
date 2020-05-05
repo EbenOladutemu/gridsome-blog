@@ -46,4 +46,4 @@ Check Tracklist below
 
 Listen below and Enjoy
 
-<div class="" style="color: green"> [**DOWNLOAD MIXTAPE**](https://tooxclusive.com/wp-content/uploads/2020/05/DJ-Neptune-Sounds-of-Neptune-Lockdown-Amapiano-Mix.mp3)</div>
+[**DOWNLOAD MIXTAPE**](https://tooxclusive.com/wp-content/uploads/2020/05/DJ-Neptune-Sounds-of-Neptune-Lockdown-Amapiano-Mix.mp3)
