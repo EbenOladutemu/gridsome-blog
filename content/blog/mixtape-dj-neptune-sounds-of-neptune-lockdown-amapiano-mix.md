@@ -4,7 +4,7 @@ tags:
 - Naija
 - Mixtape
 - Music
-created: 2020-05-04T21:56:19Z
+created: 2020-05-04T21:56:19.000+00:00
 author: Dj Gsaws
 audio: Go to cloudinary.com to upload songs. Then copy URL
 title: "[Mixtape] DJ Neptune – “Sounds Of Neptune” (Lockdown Amapiano Mix)"
@@ -46,4 +46,4 @@ Check Tracklist below
 
 Listen below and Enjoy
 
-[**DOWNLOAD MIXTAPE**](https://tooxclusive.com/wp-content/uploads/2020/05/DJ-Neptune-Sounds-of-Neptune-Lockdown-Amapiano-Mix.mp3)
+<div class="" style="color: green"> [**DOWNLOAD MIXTAPE**](https://tooxclusive.com/wp-content/uploads/2020/05/DJ-Neptune-Sounds-of-Neptune-Lockdown-Amapiano-Mix.mp3)</div>
