@@ -7,7 +7,7 @@ author: Dj Gsaws
 audio: Go to cloudinary.com to upload songs. Then copy URL
 title: Davido Reveals His Forthcoming Album “A Better Time” Was Recorded in 14 Days
 excerpt: ''
-image: ''
+image: "/Davidoooo (1).png"
 image_caption: ''
 
 ---
