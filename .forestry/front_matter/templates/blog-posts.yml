@@ -60,6 +60,7 @@ fields:
   hidden: true
   default: Go to cloudinary.com to upload songs. Then copy URL
 pages:
+- content/blog/davido-s-d-g-with-summer-walker-vs-akon-s-escape-with-wizkid-which-are-you-feeling-the-most.md
 - content/blog/del-b-emotions.md
 - content/blog/erigga-puna-vibes.md
 - content/blog/gobe-young-turkish-lady-goes-in-search-of-a-yoruba-demon-who-absconded-after-impregnating-her.md
