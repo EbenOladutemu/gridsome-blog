@@ -2,7 +2,7 @@
 category: Gists
 tags: []
 created: 2020-05-08T19:16:51Z
-author: Murray
+author: Dj Gsaws
 audio: Go to cloudinary.com to upload songs. Then copy URL
 title: Daddy Showkey Sternly Warns Nigerians Against Dangerous S*x Position Called
   “Reverse Cow Girl”
