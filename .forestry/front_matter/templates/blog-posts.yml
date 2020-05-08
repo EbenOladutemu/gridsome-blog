@@ -60,6 +60,7 @@ fields:
   hidden: true
   default: Go to cloudinary.com to upload songs. Then copy URL
 pages:
+- content/blog/[Audio + Video] Nikita x Teni – “Dinero”.md
 - content/blog/aileru-geniuss-ft-prince-hardey-shining-stars.md
 - content/blog/davido-reveals-his-forthcoming-album-a-better-time-was-recorded-in-14-days.md
 - content/blog/davido-s-d-g-with-summer-walker-vs-akon-s-escape-with-wizkid-which-are-you-feeling-the-most.md
