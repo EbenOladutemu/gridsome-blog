@@ -18,4 +18,4 @@ Johniano titled this one ‘**Craze For You**‘ produced by **Capable Geniuss**
 
 ## Enjoy!!
 
-[**DOWNLOAD**](https://latest9ja.co/wp-content/uploads/2020/05/Johniano-Craze-For-You.mp3)
+[**DOWNLOAD**](https://latest9ja.co/wp-content/uploads/2020/05/Johniano_Craze-For-Love.mp3)
