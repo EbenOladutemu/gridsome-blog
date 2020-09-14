@@ -22,7 +22,7 @@ Polongo
 
 <div class="col-sm-6 embed-responsive embed-responsive-4by3">
 <audio controls class="embed-responsive-item">
-<source src="paste_URL_of_audio_file_here">
+<source src="https://res.cloudinary.com/latest9ja/video/upload/v1600110739/Ewarahyo__-__Polongo_Mi_Mixed_By_Medal_nypkjp.mp3">
 </audio>
 </div>
 
@@ -30,6 +30,6 @@ Iku Ju Owo Lo
 
 <div class="col-sm-6 embed-responsive embed-responsive-4by3">
 <audio controls class="embed-responsive-item">
-<source src="paste_URL_of_audio_file_here">
+<source src="https://res.cloudinary.com/latest9ja/video/upload/v1600110761/Ewarahyo_-__Iku_Jowo_Lo_2_eswkop.mp3">
 </audio>
 </div>
